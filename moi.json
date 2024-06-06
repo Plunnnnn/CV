@@ -1,0 +1,21 @@
+{
+
+    "home": ["total 9.99T","drwxr-xr-x      4.15 K      personnal information as PI", 
+            "drwxr-xr-x      9.54 T      skills", 
+            "drwxr-xr-x      45.62 G      projects"],
+    
+    "personnal informations":["User : Denfir Basem aka Basmoussent","Version: 404", "Location : Paris, France", " Age : 17yo", "Personnality : Cybersecurity Enthusiast & self-taught Developper", "Hobby : literature, video game, sports", "availability : Right Now", "contacts : basem.denfir@gmail.com", "Updates: Continuous, up to date as of June 2024"],
+
+    "language":["Python.py", "index.HTML", "style.css", "DB.mysql", "JavaScript.js", "bash.bat", "C.c (Download in Progress : 56%)"], 
+
+    "skills": ["language", "MySQL and Database Management.sql", "AWS.com", "Network Security and traffic Analysis.pcapng", "Fullstack Developper.msi", "Linux Enjoyer.iso"],
+
+    "grand line.md":["Grand Line is a simple web chat app that includes basic functionalities.","               - A super cool boat to travel !",               "- Register and Login ",              "- Data Encryption in Database",             " - Friends Management ",               "- Real Time Chatting"],
+    "palestream.md":["Palestream is a unique dynamic streaming website, which doesn't store anything ! ","               - Dynamic Website using JS & PHP ","              - Adless alternative to Netflix and other platfroms"],
+    "8 pool game.md":["Just a normal 8 pool game !","               - Physics and collision handling ","               - OOP from the beginning to the end ","                - Game creation logic"],
+    "physics simulations":["Some basic simulation to mess around with ! ","               - Ball bouncing inside a circle","               - Marble Race Game ","               - Rock Paper Scissors Batlle Royale"],
+
+
+    "projects":["grand line.md", "palestrem.md", "8 pool game.md", "physics Simulation.md", "46 more..."]
+
+}

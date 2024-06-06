@@ -1,0 +1,115 @@
+.box {
+    background: #AEB7B3;
+    overflow: visible;  
+    margin: 100px auto;
+    width: 70%;  
+    height: 80vh;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  
+    text-align: left;
+    box-sizing: border-box;  
+    position: relative; 
+}
+
+.window {
+    text-align: center;
+    width: 100%;  
+    overflow: visible;
+    box-sizing: border-box;
+    font-family: "SFMono-Regular", sans-serif;
+    position: relative; 
+    z-index: 2;
+}
+
+.top-left-image {
+    position: absolute;  
+    top: 3px;   
+    left: 10px; 
+    width: 50px; 
+    height: 13px;  
+}
+
+.top-window {
+    background-color: #8f9794;
+    border: 1px solid #737473;
+    margin-bottom: 20px;
+    margin-top: -8PX;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px; 
+}
+
+.bottom-window {
+    position: absolute;
+    bottom: 0; 
+    left: 0; 
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    text-align: justify; 
+    padding-bottom: 5px;
+    padding-left: 3px;
+    font-family: "SimSun-ExtB", sans-serif;
+}
+
+.cmd {
+    padding-left: 5px;
+    padding-top: 10px;    
+    width: 100%;  
+    margin-top: -25px;
+    margin-bottom: 20px;
+    overflow: visible;
+    box-sizing: border-box;
+    font-family: "Samanata", sans-serif;
+    position: relative;
+    overflow-y: auto;
+    line-height: 0px;
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;  
+}
+
+p {
+    flex: 1;
+}
+
+input {
+    background: #AEB7B3;
+    outline: black solid 2px;
+    border: 0;
+    text-decoration: underline;     
+    z-index: 0;
+    text-align: left;
+    width: 100%;  
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-size: 20px;
+    font-family: "SimSun-ExtB", sans-serif;
+    box-sizing: border-box; 
+    
+    
+}
+
+.borderless-input {
+    border: none;
+    border-color: transparent;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 10px;
+    top: 0;
+}
+
+.logo {
+      
+    margin-bottom: 50px;
+    
+
+      
+}

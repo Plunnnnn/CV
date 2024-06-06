@@ -1,0 +1,2 @@
+faire en sorte que quand la windwo est trop petit le texte repart a la ligne
+la ou on ecrit c un peu trop haut
